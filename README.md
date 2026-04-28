@@ -4,6 +4,14 @@ This project demonstrates a complete data analysis pipeline, from business requi
 
 ## 📂 Project Structure
 * **Business Requirement Document (BRD):** Defined project scope and KPIs.
+ 
+* ## 📊 Excel Analysis
+I used **Microsoft Excel** for data validation and mapping:
+* **Data Mapping:** Extensively used **Lookup functions** to connect and cross-reference different data points.
+* **Outlier Analysis:** Performed outlier detection to identify extreme values in the dataset.
+* **Pivot Tables:** Created pivot summaries to quickly analyze data distributions.
+* **Null Analysis:** Identified and handled missing values (Nulls) to maintain data quality.
+  
 * ## 🗄️ Database & SQL (MySQL)
 I used **MySQL** for data management and extraction:
 * **Data Extraction:** Wrote optimized queries to pull data from multiple tables.
